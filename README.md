@@ -1,4 +1,9 @@
 <div align="center">
+<img src="sakshi.jpg" width="150">
+</div>
+
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sakshi%20Thakur&fontSize=55&animation=fadeIn"/>
 
