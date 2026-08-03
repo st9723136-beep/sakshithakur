@@ -1,76 +1,89 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sakshi%20Thakur&fontSize=50" />
+<div align="center">
 
-<h1 align="center">Hi 👋 I'm Sakshi Thakur</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sakshi%20Thakur&fontSize=55&animation=fadeIn"/>
 
-<h3 align="center">
-BCA Final Year Student | Web Developer | Learning Full Stack Development
-</h3>
+# 👋 Hello, I'm Sakshi Thakur
 
----
+### 💻 BCA Final Year Student | Web Developer | Tech Explorer
 
-## 👩‍💻 About Me
+<p>
+  Building creative solutions through code 🚀
+</p>
 
-- 🎓 BCA Final Year Student
-- 💻 Interested in Web Development and Software Development
-- 🌱 Currently learning Full Stack Development
-- 🚀 Building real-world projects to improve my skills
+</div>
 
 ---
 
-## 🛠️ Skills
+## 🌸 About Me
 
-💻 HTML  
-🎨 CSS  
-⚡ JavaScript  
-🐘 PHP  
-🗄️ MySQL  
-☕ C++  
-🖥️ Visual Basic  
-📊 Database Management System  
+🎓 Bachelor of Computer Applications (BCA) Final Year Student  
+💻 Interested in Web Development & Software Development  
+🌱 Currently exploring Full Stack Development  
+✨ Love creating user-friendly and meaningful applications  
 
 ---
 
-## 🚀 Projects
+## 🛠️ My Skills
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,cpp,git,github,vscode" />
+</p>
+
+---
+
+## 🚀 My Projects
 
 ### 🎓 College Management System
+> A complete management solution for educational institutions.
 
-Features:
-- Student Dashboard
-- Teacher Dashboard
-- Admin Panel
-- Admission Management
-- Attendance Management
-- Result Management
+**Features:**
+- 👨‍🎓 Student Dashboard
+- 👩‍🏫 Teacher Dashboard
+- 📝 Attendance Management
+- 📊 Result Management
+- 🔐 Role Based Login System
+
+---
 
 ### 🌸 Menstrual Health Website
+> A health awareness platform focused on women's wellness.
 
-Features:
-- Period Tracking
-- Health Awareness
-- User Friendly Interface
-- Health Information Management
-
----
-
-## 📚 Education
-
-**Bachelor of Computer Applications (BCA)**  
-Final Year Student
+**Features:**
+- 📅 Period Tracking
+- 📚 Health Information
+- 💡 Awareness Content
+- 🌈 Simple User Interface
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+<p align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical"/>
 
-## 📫 Connect With Me
-
-📧 Email: your-email@example.com
-
-🔗 LinkedIn: Your LinkedIn Profile Link
+</p>
 
 ---
 
-<h3 align="center">✨ Thank You for visiting my profile ✨</h3>
+## 🎯 My Goals
+
+🚀 Build real-world applications  
+💡 Improve coding skills  
+🌱 Learn new technologies  
+✨ Grow as a Software Developer  
+
+---
+
+## 🤝 Connect With Me
+
+📧 Email: your-email  
+🔗 LinkedIn: your-link  
+
+---
+
+<div align="center">
+
+### ✨ "Code. Create. Learn. Grow." ✨
+
+</div>
